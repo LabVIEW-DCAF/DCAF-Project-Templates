@@ -41,8 +41,6 @@
 				<Item Name="tests" Type="Folder">
 					<Item Name="fixed module parent tests.lvlib" Type="Library" URL="../fixed module parent/tests/fixed module parent tests.lvlib"/>
 				</Item>
-				<Item Name="fixed module parent implementation.aliases" Type="Document" URL="../fixed module parent/fixed module parent implementation.aliases"/>
-				<Item Name="fixed module parent implementation.lvlps" Type="Document" URL="../fixed module parent/fixed module parent implementation.lvlps"/>
 				<Item Name="fixed module parent implementation.lvproj" Type="Document" URL="../fixed module parent/fixed module parent implementation.lvproj"/>
 			</Item>
 			<Item Name="MetaData" Type="Folder">
@@ -205,8 +203,6 @@
 			<Item Name="tools menu" Type="Folder">
 				<Item Name="Fixed Channel Module Script.vi" Type="VI" URL="../tools menu/Fixed Channel Module Script.vi"/>
 			</Item>
-			<Item Name="sample projects.aliases" Type="Document" URL="../sample projects.aliases"/>
-			<Item Name="sample projects.lvlps" Type="Document" URL="../sample projects.lvlps"/>
 			<Item Name="sample_code_license_terms_20141101.txt" Type="Document" URL="../sample_code_license_terms_20141101.txt"/>
 			<Item Name="tbdfsample-errors.txt" Type="Document" URL="../tbdfsample-errors.txt"/>
 			<Item Name="TBM Development Kit.vipb" Type="Document" URL="../TBM Development Kit.vipb"/>
