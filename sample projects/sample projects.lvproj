@@ -23,9 +23,6 @@
 		<Item Name="sample projects" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="tests" Type="Folder">
-			<Item Name="Test Channel Configuration.vi" Type="VI" URL="../Source/tag bus configurable plugin module/fixed channel module/tests/Test Channel Configuration.vi"/>
-		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
