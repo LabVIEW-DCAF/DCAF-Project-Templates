@@ -21,42 +21,44 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Glyphs" Type="Folder">
-			<Item Name="AC_Volts.png" Type="Document" URL="../Glyphs/AC_Volts.png"/>
-			<Item Name="analog.png" Type="Document" URL="../Glyphs/analog.png"/>
-			<Item Name="ApplicationIcon.ico" Type="Document" URL="../Glyphs/ApplicationIcon.ico"/>
-			<Item Name="applications-system-3.png" Type="Document" URL="../Glyphs/applications-system-3.png"/>
-			<Item Name="Async.png" Type="Document" URL="../Glyphs/Async.png"/>
-			<Item Name="Axis.png" Type="Document" URL="../Glyphs/Axis.png"/>
-			<Item Name="ChnGroup.png" Type="Document" URL="../Glyphs/ChnGroup.png"/>
-			<Item Name="ChnTime.png" Type="Document" URL="../Glyphs/ChnTime.png"/>
-			<Item Name="ChnWave.png" Type="Document" URL="../Glyphs/ChnWave.png"/>
-			<Item Name="choice.png" Type="Document" URL="../Glyphs/choice.png"/>
-			<Item Name="Confine_Window.png" Type="Document" URL="../Glyphs/Confine_Window.png"/>
-			<Item Name="cRIO.png" Type="Document" URL="../Glyphs/cRIO.png"/>
-			<Item Name="cRIO_Controller.png" Type="Document" URL="../Glyphs/cRIO_Controller.png"/>
-			<Item Name="cRIO_Network_Controller.png" Type="Document" URL="../Glyphs/cRIO_Network_Controller.png"/>
-			<Item Name="cRIOEmbeddedChassis.png" Type="Document" URL="../Glyphs/cRIOEmbeddedChassis.png"/>
-			<Item Name="Current.png" Type="Document" URL="../Glyphs/Current.png"/>
-			<Item Name="DC_Volts.png" Type="Document" URL="../Glyphs/DC_Volts.png"/>
-			<Item Name="Error.png" Type="Document" URL="../Glyphs/Error.png"/>
-			<Item Name="ethernet.png" Type="Document" URL="../Glyphs/ethernet.png"/>
-			<Item Name="Folder.png" Type="Document" URL="../Glyphs/Folder.png"/>
-			<Item Name="Gear.ico" Type="Document" URL="../Glyphs/Gear.ico"/>
-			<Item Name="Gear.png" Type="Document" URL="../Glyphs/Gear.png"/>
-			<Item Name="Normal.png" Type="Document" URL="../Glyphs/Normal.png"/>
-			<Item Name="PC.png" Type="Document" URL="../Glyphs/PC.png"/>
-			<Item Name="Resource.png" Type="Document" URL="../Glyphs/Resource.png"/>
-			<Item Name="rotation2.png" Type="Document" URL="../Glyphs/rotation2.png"/>
-			<Item Name="steps.png" Type="Document" URL="../Glyphs/steps.png"/>
-			<Item Name="System.png" Type="Document" URL="../Glyphs/System.png"/>
-			<Item Name="task.png" Type="Document" URL="../Glyphs/task.png"/>
-			<Item Name="temp.png" Type="Document" URL="../Glyphs/temp.png"/>
-			<Item Name="velocity.png" Type="Document" URL="../Glyphs/velocity.png"/>
+			<Item Name="AC_Volts.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/AC_Volts.png"/>
+			<Item Name="analog.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/analog.png"/>
+			<Item Name="ApplicationIcon.ico" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/ApplicationIcon.ico"/>
+			<Item Name="applications-system-3.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/applications-system-3.png"/>
+			<Item Name="Async.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Async.png"/>
+			<Item Name="Axis.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Axis.png"/>
+			<Item Name="ChnGroup.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/ChnGroup.png"/>
+			<Item Name="ChnTime.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/ChnTime.png"/>
+			<Item Name="ChnWave.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/ChnWave.png"/>
+			<Item Name="choice.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/choice.png"/>
+			<Item Name="Confine_Window.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Confine_Window.png"/>
+			<Item Name="cRIO.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/cRIO.png"/>
+			<Item Name="cRIO_Controller.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/cRIO_Controller.png"/>
+			<Item Name="cRIO_Network_Controller.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/cRIO_Network_Controller.png"/>
+			<Item Name="cRIOEmbeddedChassis.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/cRIOEmbeddedChassis.png"/>
+			<Item Name="Current.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Current.png"/>
+			<Item Name="DC_Volts.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/DC_Volts.png"/>
+			<Item Name="Error.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Error.png"/>
+			<Item Name="ethernet.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/ethernet.png"/>
+			<Item Name="Folder.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Folder.png"/>
+			<Item Name="Gear.ico" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Gear.ico"/>
+			<Item Name="Gear.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Gear.png"/>
+			<Item Name="Normal.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Normal.png"/>
+			<Item Name="PC.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/PC.png"/>
+			<Item Name="Resource.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/Resource.png"/>
+			<Item Name="rotation2.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/rotation2.png"/>
+			<Item Name="steps.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/steps.png"/>
+			<Item Name="System.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/System.png"/>
+			<Item Name="task.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/task.png"/>
+			<Item Name="temp.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/temp.png"/>
+			<Item Name="velocity.png" Type="Document" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Glyphs/velocity.png"/>
 		</Item>
-		<Item Name="configuration library.lvlib" Type="Library" URL="../configuration library.lvlib"/>
+		<Item Name="Standard Editor.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/Standard Editor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
+				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
+				<Item Name="Add File to Zip.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Add File to Zip.vi"/>
 				<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -68,6 +70,8 @@
 				<Item Name="class discovery singleton.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Configuration Framework/class discovery singleton/class discovery singleton.lvlib"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Close Panel.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/victl.llb/Close Panel.vi"/>
+				<Item Name="Close Zip File.vi" Type="VI" URL="/&lt;vilib&gt;/zip/Close Zip File.vi"/>
+				<Item Name="Compare Two Paths.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Compare Two Paths.vi"/>
 				<Item Name="compatCalcOffset.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatCalcOffset.vi"/>
 				<Item Name="compatFileDialog.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatFileDialog.vi"/>
 				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
@@ -92,6 +96,7 @@
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
+				<Item Name="Generate Temporary File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Generate Temporary File Path.vi"/>
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
 				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
@@ -103,6 +108,7 @@
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="GetNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/GetNamedSemaphorePrefix.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="glyph manager.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Configuration Framework/glyph manager/glyph manager.lvlib"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
@@ -112,8 +118,10 @@
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
 				<Item Name="ms timing source.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Module Timing Source/standard timing source/ms timing source.lvclass"/>
+				<Item Name="New Zip File.vi" Type="VI" URL="/&lt;vilib&gt;/zip/New Zip File.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_FTP.lvlib" Type="Library" URL="/&lt;vilib&gt;/FTP/NI_FTP.lvlib"/>
+				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="NI_WebDAV.lvlib" Type="Library" URL="/&lt;vilib&gt;/WebDAVClient/NI_WebDAV.lvlib"/>
 				<Item Name="NISE_CEF_HierarchyRepo.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Configuration Framework/hierarchy repo/NISE_CEF_HierarchyRepo.lvclass"/>
@@ -123,6 +131,7 @@
 				<Item Name="NISE_CEF_serializable node.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Configuration Framework/serializable node/NISE_CEF_serializable node.lvclass"/>
 				<Item Name="NISE_CEF_TreeControl.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Configuration Framework/NISE_CEF_TreeControl.lvlib"/>
 				<Item Name="NISE_CEF_TreeSerializer.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Configuration Framework/tree serializer/NISE_CEF_TreeSerializer.lvlib"/>
+				<Item Name="nisyscfg.lvlib" Type="Library" URL="/&lt;vilib&gt;/nisyscfg/nisyscfg.lvlib"/>
 				<Item Name="Not A Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Not A Semaphore.vi"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Obtain Semaphore Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Obtain Semaphore Reference.vi"/>
@@ -138,9 +147,12 @@
 				<Item Name="PLConfigurationSerializer.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Framework Configuration Classes/platypus configuration/PLConfigurationSerializer.lvlib"/>
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
+				<Item Name="Relative Path To Platform Independent String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Relative Path To Platform Independent String.vi"/>
 				<Item Name="Release Semaphore Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Release Semaphore Reference.vi"/>
 				<Item Name="Release Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Release Semaphore.vi"/>
 				<Item Name="RemoveNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/RemoveNamedSemaphorePrefix.vi"/>
+				<Item Name="Robust CSV.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Robust CSV/Robust CSV.lvlib"/>
+				<Item Name="RT Management.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/RT Management/RT Management.lvlib"/>
 				<Item Name="script includes loader.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Utilities/script includes loader.vi"/>
 				<Item Name="script includes VI.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Utilities/script includes VI.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
@@ -155,6 +167,8 @@
 				<Item Name="Set Cursor.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="Standard Editor splash screen.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/Standard Editor/subVI/SplashScreen/Standard Editor splash screen.lvlib"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="tag bus.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus/tag bus.lvlib"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
@@ -206,18 +220,18 @@
 				<Property Name="Source[0].itemID" Type="Str">{7B44F464-0650-4A6F-ACE4-365A20A81F0A}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/configuration library.lvlib</Property>
+				<Property Name="Source[1].itemID" Type="Ref"></Property>
 				<Property Name="Source[1].Library.allowMissingMembers" Type="Bool">true</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/configuration library.lvlib/Configuration Utility.vi</Property>
+				<Property Name="Source[2].itemID" Type="Ref"></Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[3].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">2</Property>
-				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Glyphs</Property>
+				<Property Name="Source[3].itemID" Type="Ref"></Property>
 				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[3].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">4</Property>
