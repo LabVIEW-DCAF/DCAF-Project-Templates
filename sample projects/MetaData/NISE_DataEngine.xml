@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='windows-1252' standalone='yes'?>
 <MetaData>
 <ProjectTemplate>
-  <Title localize="yes">IO Tag Bus Module with Editor Node</Title>
-  <Description localize="yes">Creates a tag bus module from a template, including an editor node, targeted to aid in the development of new IO modules. For example, select this template if you wish to make a scan engine or ethernet/ip module.</Description>
+  <Title localize="yes">I/O Tag Bus Module</Title>
+  <Description localize="yes">Creates a Tag Bus Module from a template which has been customized to aid in the development of new modules for I/O with a configurable number of channels.</Description>
   <Filters localize="yes">TBDF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
   <LocationPath>tag bus configurable plugin module/io plugin</LocationPath>
@@ -17,7 +17,7 @@
 
 <ProjectTemplate>
   <Title localize="yes">User Control Module</Title>
-  <Description localize="yes">Creates a sample Tag Bus Module project containing an editor class.</Description>
+  <Description localize="yes">Creates a Tag Bus Module from a template that allows users to implement their control logic within a single VI. This template can only be used with logic that has a fixed number of channels, but it includes a script to generate all code necessary for interacting with those channels.</Description>
   <Filters localize="yes">TBDF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
   <LocationPath>tag bus configurable plugin module/user control module</LocationPath>
