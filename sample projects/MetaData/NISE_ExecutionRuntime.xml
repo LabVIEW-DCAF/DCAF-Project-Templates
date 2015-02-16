@@ -2,8 +2,8 @@
 <MetaData>
 
 <ProjectTemplate>
-  <Title localize="yes">Module Execution Engine Runtime</Title>
-  <Description localize="yes">Creates a project which is capable of executing tag bus modules generically, using a queued message handling architecture.</Description>
+  <Title localize="yes">Engine Communication Service</Title>
+  <Description localize="yes">Creates a top-level VI and a customizeable service that enables interaction with multiple data engines using a queued message handling architecture.</Description>
   <Filters localize="yes">TBDF:Runtime</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
   <LocationPath>Module Execution</LocationPath>
