@@ -106,7 +106,7 @@ DirectoryIndex index.htm
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="TBD message service.lvlib" Type="Library" URL="../TBD message service.lvlib"/>
+		<Item Name="TBD execution service.lvlib" Type="Library" URL="../TBD execution service.lvlib"/>
 		<Item Name="cRIO Main.vi" Type="VI" URL="../cRIO Main.vi"/>
 		<Item Name="cRIO Module Includes.vi" Type="VI" URL="../cRIO Module Includes.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
