@@ -2,27 +2,27 @@
 <MetaData>
 
 <ProjectTemplate>
-  <Title localize="yes">Engine Communication Service</Title>
+  <Title localize="yes">TBD Execution Service</Title>
   <Description localize="yes">Creates a top-level VI and a customizeable service that enables interaction with multiple data engines using a queued message handling architecture.</Description>
   <Filters localize="yes">TBDF:Runtime</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>Module Execution</LocationPath>
-  <ProjectPath>Module Execution.lvproj</ProjectPath>
+  <LocationPath>TBD Execution Service</LocationPath>
+  <ProjectPath>TBD execution service.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
-  <DocumentationPath>documentation/module execution.html</DocumentationPath>
+  <DocumentationPath>documentation/TBD execution service.html</DocumentationPath>
   <CustomVIMode>None</CustomVIMode>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
 <ProjectTemplate>
-  <Title localize="yes">Single Engine System</Title>
-  <Description localize="yes">Creates a single-threaded executable which is capable of executing tag bus modules.</Description>
+  <Title localize="yes">Basic Execution Template</Title>
+  <Description localize="yes">Creates a simple Initialize, Read/Write, Close example for executing a TBD configuration.</Description>
   <Filters localize="yes">TBDF:Runtime</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>Single Engine System</LocationPath>
-  <ProjectPath>Single Engine System.lvproj</ProjectPath>
+  <LocationPath>Basic Execution Template</LocationPath>
+  <ProjectPath>TBD Basic Execution Template.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
-  <DocumentationPath>documentation/module execution.html</DocumentationPath>
+  <DocumentationPath>documentation/basic execution template.html</DocumentationPath>
   <CustomVIMode>None</CustomVIMode>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
