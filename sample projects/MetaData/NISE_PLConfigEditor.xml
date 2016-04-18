@@ -4,7 +4,7 @@
 <ProjectTemplate>
   <Title localize="yes">Custom Configuration Editor</Title>
   <Description localize="yes">Creates a branch of the Standard Configuration Editor for customization.</Description>
-  <Filters localize="yes">TBDF:Editor</Filters>
+  <Filters localize="yes">DCAF:Editor</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin;editor;configuration</Keywords>
   <LocationPath>Module Configurator</LocationPath>
   <ProjectPath>Module Configuration Editor.lvproj</ProjectPath>
