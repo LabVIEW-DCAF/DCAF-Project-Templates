@@ -2,25 +2,25 @@
 <MetaData>
 
 <ProjectTemplate>
-  <Title localize="yes">TBD Execution Service</Title>
+  <Title localize="yes">DCAF Execution Service</Title>
   <Description localize="yes">Creates a top-level VI and a customizeable service that enables interaction with multiple data engines using a queued message handling architecture.</Description>
-  <Filters localize="yes">TBDF:Runtime</Filters>
+  <Filters localize="yes">DCAF:Runtime</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>TBD Execution Service</LocationPath>
-  <ProjectPath>TBD execution service.lvproj</ProjectPath>
+  <LocationPath>DCAF Execution Service</LocationPath>
+  <ProjectPath>DCAF execution service.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
-  <DocumentationPath>documentation/TBD execution service.html</DocumentationPath>
+  <DocumentationPath>documentation/DCAF execution service.html</DocumentationPath>
   <CustomVIMode>None</CustomVIMode>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
 <ProjectTemplate>
   <Title localize="yes">Basic Execution Template</Title>
-  <Description localize="yes">Creates a simple Initialize, Read/Write, Close example for executing a TBD configuration.</Description>
-  <Filters localize="yes">TBDF:Runtime</Filters>
+  <Description localize="yes">Creates a simple Initialize, Read/Write, Close example for executing a DCAF configuration.</Description>
+  <Filters localize="yes">DCAF:Runtime</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
   <LocationPath>Basic Execution Template</LocationPath>
-  <ProjectPath>TBD Basic Execution Template.lvproj</ProjectPath>
+  <ProjectPath>DCAF Basic Execution Template.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
   <DocumentationPath>documentation/basic execution template.html</DocumentationPath>
   <CustomVIMode>None</CustomVIMode>
