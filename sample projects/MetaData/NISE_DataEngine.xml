@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='windows-1252' standalone='yes'?>
 <MetaData>
 <ProjectTemplate>
-  <Title localize="yes">I/O Tag Bus Module</Title>
-  <Description localize="yes">Creates a Tag Bus Module from a template which has been customized to aid in the development of new modules for I/O with a configurable number of channels.</Description>
-  <Filters localize="yes">TBDF:Modules</Filters>
+  <Title localize="yes">I/O DCAF Module</Title>
+  <Description localize="yes">Creates a DCAF Module from a template which has been customized to aid in the development of new modules for I/O with a configurable number of channels.</Description>
+  <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>tag bus configurable plugin module/io plugin</LocationPath>
-  <ProjectPath>tag bus io plugin.lvproj</ProjectPath>
+  <LocationPath>dcaf configurable plugin module/io plugin</LocationPath>
+  <ProjectPath>dcaf io plugin.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
   <DocumentationPath>documentation/component editor documentation.html</DocumentationPath>
   <CustomVIMode>AfterPage2NoUI</CustomVIMode>
   <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
-  <MetaDataClass>scripting/TagBusConfigurablePluginDecideFeatures.lvclass</MetaDataClass> 
+  <MetaDataClass>scripting/DCAFConfigurablePluginDecideFeatures.lvclass</MetaDataClass> 
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
 <ProjectTemplate>
   <Title localize="yes">User Control Module</Title>
-  <Description localize="yes">Creates a Tag Bus Module from a template that allows users to implement their control logic within a single VI. This template can only be used with logic that has a fixed number of channels, but it includes a script to generate all code necessary for interacting with those channels.</Description>
-  <Filters localize="yes">TBDF:Modules</Filters>
+  <Description localize="yes">Creates a DCAF Module from a template that allows users to implement their control logic within a single VI. This template can only be used with logic that has a fixed number of channels, but it includes a script to generate all code necessary for interacting with those channels.</Description>
+  <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>tag bus configurable plugin module/user control module</LocationPath>
+  <LocationPath>dcaf configurable plugin module/user control module</LocationPath>
   <ProjectPath>user control module.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
   <DocumentationPath>documentation/component editor documentation.html</DocumentationPath>
