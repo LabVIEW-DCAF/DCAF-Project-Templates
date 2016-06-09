@@ -105,7 +105,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 			</Item>
-			<Item Name="Permissions Enum.ctl" Type="VI" URL="../../../../../../../../Users/Benjamin/Desktop/delet/up7/editor node/Permissions Enum.ctl">
+			<Item Name="Permissions Enum.ctl" Type="VI" URL="../Permissions Enum.ctl">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#'!!!!!1"_!0%!!!!!!!!!!C^U97=A9H6T)'.P&lt;G:J:X6S97*M:3"Q&lt;(6H;7YA:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=R21:8*N;8.T;7^O=S"&amp;&lt;H6N,G.U&lt;!!R1"9!!AR3:7&amp;E)':S&lt;WUA3&amp;=,6X*J&gt;'5A&gt;']A3&amp;=!!!N1:8*N;8.T;7^O=Q!"!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
