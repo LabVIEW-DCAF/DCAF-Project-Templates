@@ -135,25 +135,13 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="mscorlib" Type="VI" URL="mscorlib">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="RefreshUI Event.vi" Type="VI" URL="../../../../../../TagSelectModule/Source/editor node/RefreshUI Event.vi"/>
 			<Item Name="Rename Line.vi" Type="VI" URL="../module/configuration/Rename Line.vi"/>
-			<Item Name="System" Type="VI" URL="System">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="System.Data" Type="Document" URL="System.Data">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="tag select module configuration.lvclass" Type="LVClass" URL="../../../../../../TagSelectModule/Source/module/configuration/tag select module configuration.lvclass"/>
-			<Item Name="tag select module editor node.lvclass" Type="LVClass" URL="../../../../../../TagSelectModule/Source/editor node/tag select module editor node.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
