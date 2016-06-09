@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2016-06-09 13:35:17" Creator="Daniel" Comments="" ID="a3abf5d6ae70d39bcb42680925811151">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2016-06-09 15:26:12" Creator="Daniel" Comments="" ID="40017977b1735b2976aa974c8cb4826b">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcafsample</Package_File_Name>
     <Library_Version>2.1.0.3</Library_Version>
@@ -17,6 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
+      <Additional_External_Dependencies>national_instruments_lib_dcaf_table_api &gt;=1.0.0.7</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.1.0.1</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
