@@ -18,9 +18,7 @@
 			<Item Name="dialog edit search paths.vi" Type="VI" URL="../subVI/dialog edit search paths.vi"/>
 			<Item Name="dialog get save path.vi" Type="VI" URL="../subVI/dialog get save path.vi"/>
 			<Item Name="dialog save dirty dot.vi" Type="VI" URL="../subVI/dialog save dirty dot.vi"/>
-		</Item>
-		<Item Name="SplashScreen" Type="Folder">
-			<Item Name="splash screen.lvlib" Type="Library" URL="../subVI/SplashScreen/splash screen.lvlib"/>
+			<Item Name="launch target selector.vi" Type="VI" URL="../subVI/launch target selector.vi"/>
 		</Item>
 		<Item Name="always includes.vi" Type="VI" URL="../subVI/always includes.vi"/>
 		<Item Name="call include vi script.vi" Type="VI" URL="../subVI/call include vi script.vi"/>
@@ -28,6 +26,7 @@
 		<Item Name="default file paths.vi" Type="VI" URL="../subVI/default file paths.vi"/>
 		<Item Name="disable messages.vi" Type="VI" URL="../subVI/disable messages.vi"/>
 		<Item Name="Load Custom Status Glyph.vi" Type="VI" URL="../subVI/Load Custom Status Glyph.vi"/>
+		<Item Name="Load node UI optimized.vi" Type="VI" URL="../subVI/Load node UI optimized.vi"/>
 		<Item Name="menu options.vi" Type="VI" URL="../subVI/menu options.vi"/>
 		<Item Name="Overlay Image.vi" Type="VI" URL="../subVI/Overlay Image.vi"/>
 		<Item Name="Remove UI without races.vi" Type="VI" URL="../subVI/Remove UI without races.vi"/>
