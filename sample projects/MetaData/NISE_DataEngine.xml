@@ -31,20 +31,5 @@
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
-<ProjectTemplate>
-  <Title localize="yes">User Control Module From Existing VI</Title>
-  <Description localize="yes">Creates a DCAF Module from a template that allows users to implement their control logic within a single VI. This template can only be used with logic that has a fixed number of channels, but it includes a script to generate all code necessary for interacting with those channels.</Description>
-  <Filters localize="yes">DCAF:Modules</Filters>
-  <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>dcaf configurable plugin module/user control module from existing VI</LocationPath>
-  <ProjectPath>user control module from existing VI.lvproj</ProjectPath>
-  <ListboxImagePath>images/datacomp.png</ListboxImagePath>
-  <DocumentationPath>documentation/component editor documentation.html</DocumentationPath>
-  <CustomVIMode>AfterPage2NoUI</CustomVIMode>
-  <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
-  <MetaDataClass>scripting/FixedChannelTBModuleDecideFeatures.lvclass</MetaDataClass> 
-  <SortPriority>300</SortPriority>
-</ProjectTemplate>
-
 </MetaData>
 
