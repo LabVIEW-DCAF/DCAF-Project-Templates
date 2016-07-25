@@ -1,6 +1,6 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2016-07-22 12:42:51" Creator="Daniel" Comments="" ID="1cb29dffc6032c45894f8ed86cb098bf">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2016-07-25 14:56:55" Creator="Daniel" Comments="" ID="95c7cd68809a63eb436ec290724e756c">
   <Library_General_Settings>
-    <Package_File_Name>ni_lib_dcafsample</Package_File_Name>
+    <Package_File_Name>ni_lib_dcaf_project_templates</Package_File_Name>
     <Library_Version>2.1.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
