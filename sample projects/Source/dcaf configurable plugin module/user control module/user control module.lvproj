@@ -137,23 +137,13 @@
 				<Item Name=".NET Object To Variant.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/.NET Object To Variant.vi"/>
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="write syslog.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Syslog Wrapper - Linux/write syslog.vi"/>
+				<Item Name="DataGridView.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/DataGrid for LabVIEW/source/DataGridView/DataGridView.lvclass"/>
 			</Item>
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="mscorlib" Type="VI" URL="mscorlib">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="tag bus configurable plugin module configuration.lvclass" Type="LVClass" URL="../../IO Plugin/module/configuration/tag bus configurable plugin module configuration.lvclass"/>
-			<Item Name="tag bus configurable plugin editor node.lvclass" Type="LVClass" URL="../../IO Plugin/editor node/tag bus configurable plugin editor node.lvclass"/>
-			<Item Name="DataGrid.lvlib" Type="Library" URL="../../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/DataGrid for LabVIEW/DataGrid.lvlib"/>
-			<Item Name="System.Data" Type="Document" URL="System.Data">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>

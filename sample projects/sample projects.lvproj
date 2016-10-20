@@ -64,6 +64,7 @@
 				<Item Name="Create New Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Create New Rendezvous.vi"/>
 				<Item Name="Create Rendezvous.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/Create Rendezvous.vi"/>
 				<Item Name="Create Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Create Semaphore.vi"/>
+				<Item Name="DataGridView.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/DataGrid for LabVIEW/source/DataGridView/DataGridView.lvclass"/>
 				<Item Name="DCAF UI Elements.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/DCAF UI Toolkit/Controls/DCAF UI Elements.lvlib"/>
 				<Item Name="Destroy Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Destroy Semaphore.vi"/>
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
@@ -243,7 +244,7 @@
 			<Item Name="Center Image In Rectangle.vi" Type="VI" URL="/&lt;resource&gt;/dialog/NewProjectWizard/MetaDataObj/Center Image In Rectangle.vi"/>
 			<Item Name="Close Create Project Progress Bar.vi" Type="VI" URL="/&lt;resource&gt;/dialog/NewProjectWizard/Close Create Project Progress Bar.vi"/>
 			<Item Name="CustomVIModes.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/NewProjectWizard/MetaDataObj/Accessors/CustomVIModes.ctl"/>
-			<Item Name="DataGrid.lvlib" Type="Library" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/DataGrid for LabVIEW/DataGrid.lvlib"/>
+			<Item Name="DataGrid.lvlib" Type="Library" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2013/examples/DataGrid for LabVIEW/DataGrid.lvlib"/>
 			<Item Name="Delete Project Destination on Error.vi" Type="VI" URL="/&lt;resource&gt;/dialog/NewProjectWizard/Delete Project Destination on Error.vi"/>
 			<Item Name="Generate Default Project Name and Path.vi" Type="VI" URL="/&lt;resource&gt;/dialog/NewProjectWizard/Generate Default Project Name and Path.vi"/>
 			<Item Name="Handle SpecPage Project Name Change.vi" Type="VI" URL="/&lt;resource&gt;/dialog/NewProjectWizard/Handle SpecPage Project Name Change.vi"/>
