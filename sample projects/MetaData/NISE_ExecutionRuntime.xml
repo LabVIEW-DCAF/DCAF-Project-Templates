@@ -10,7 +10,9 @@
   <ProjectPath>DCAF execution service.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
   <DocumentationPath>documentation/DCAF execution service.html</DocumentationPath>
-  <CustomVIMode>None</CustomVIMode>
+  <CustomVIMode>AfterPage2NoUI</CustomVIMode>
+  <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
+  <MetaDataClass>scripting/editorscriptingobject.lvclass</MetaDataClass>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
@@ -23,7 +25,9 @@
   <ProjectPath>DCAF Basic Execution Template.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
   <DocumentationPath>documentation/basic execution template.html</DocumentationPath>
-  <CustomVIMode>None</CustomVIMode>
+  <CustomVIMode>AfterPage2NoUI</CustomVIMode>
+  <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
+  <MetaDataClass>scripting/editorscriptingobject.lvclass</MetaDataClass>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
