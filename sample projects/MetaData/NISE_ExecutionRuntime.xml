@@ -12,7 +12,7 @@
   <DocumentationPath>documentation/DCAF execution service.html</DocumentationPath>
   <CustomVIMode>AfterPage2NoUI</CustomVIMode>
   <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
-  <MetaDataClass>scripting/editorscriptingobject.lvclass</MetaDataClass>
+  <MetaDataClass>scripting/editorscriptingobjectadvExService.lvclass</MetaDataClass>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
@@ -27,7 +27,7 @@
   <DocumentationPath>documentation/basic execution template.html</DocumentationPath>
   <CustomVIMode>AfterPage2NoUI</CustomVIMode>
   <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
-  <MetaDataClass>scripting/editorscriptingobject.lvclass</MetaDataClass>
+  <MetaDataClass>scripting/editorscriptingobjectadvBasicEx.lvclass</MetaDataClass>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
