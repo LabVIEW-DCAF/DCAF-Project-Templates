@@ -27,7 +27,7 @@
   <DocumentationPath>documentation/basic execution template.html</DocumentationPath>
   <CustomVIMode>AfterPage2NoUI</CustomVIMode>
   <CustomVIPath>scripting/PostCopyScripting.vi</CustomVIPath>
-  <MetaDataClass>scripting/editorscriptingobjectadvBasicEx.lvclass</MetaDataClass>
+  <MetaDataClass>scripting/editorscriptingobjectBasicExec.lvclass</MetaDataClass>
   <SortPriority>300</SortPriority>
 </ProjectTemplate>
 
