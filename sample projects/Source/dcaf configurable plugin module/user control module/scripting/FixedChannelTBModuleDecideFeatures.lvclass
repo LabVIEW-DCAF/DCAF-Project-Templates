@@ -322,4 +322,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
+	<Item Name="KeyFocus.vi" Type="VI" URL="../KeyFocus.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-K!!!!$A!%!!!!#E"4"6:B&lt;(6F!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!)!!Q!%%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#E!B"(2S&gt;75!!!Z!-0````]%4G&amp;N:1!!G!$R!!!!!!!!!!)46%*.)'.I97ZO:7QO&lt;(:D&lt;'&amp;T=RJD;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O,G.U&lt;!"B1"9!"!JJ&lt;H"V&gt;#"E982B#W^V&gt;("V&gt;#"E982B&amp;("S&lt;W.F=X.J&lt;G=A='&amp;S97VF&gt;'6S%8"S&lt;W.F=X.J&lt;G=A=G6T&gt;7RU!":D;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O!!%S!0%!!!!!!!!!!QVU97=A9H6T,GRW&lt;'FC&amp;H2B:S"E:8.D=GFQ&gt;'^S,GRW9WRB=X-.2'&amp;U93"5?8"F,G.U&lt;!$X1"9!'!:%&lt;X6C&lt;'5'5WFO:WRF!UEW.!.*-T)$34%W!EEY!V5W.!.6-T)$64%W!F5Y"U*P&lt;WRF97Y'5X2S;7ZH$U&amp;S=G&amp;Z)'^G)%2P&gt;7*M:1^"=H*B?3"P:C"4;7ZH&lt;'5-18*S98EA&lt;W9A349U$%&amp;S=G&amp;Z)'^G)%ET-AR"=H*B?3"P:C"*-49,18*S98EA&lt;W9A34A-18*S98EA&lt;W9A649U$%&amp;S=G&amp;Z)'^G)&amp;5T-AR"=H*B?3"P:C"6-49,18*S98EA&lt;W9A64A118*S98EA&lt;W9A1G^P&lt;'6B&lt;A^"=H*B?3"P:C"4&gt;(*J&lt;G=!#72B&gt;'%A&gt;(FQ:1"T!0%!!!!!!!!!!CJ';8BF:%.I97ZO:7R51EVP:(6M:52F9WFE:5:F982V=G6T,GRW9WRB=X-:9WBB&lt;GZF&lt;#"D&lt;WZG;7&gt;V=G&amp;U;7^O,G.U&lt;!!G1&amp;!!!Q!(!!A!#26$;'&amp;O&lt;G6M)%.P&lt;G:J:X6S982J&lt;WY!$!"!!!(`````!!I!'%"Q!!A!!1!,!!Y!!!B"=H*B?3"J&lt;A!!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!5!!!!'!!Q$!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!#!!!!!A!!!!!!1!.!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+	</Item>
 </LVClass>
