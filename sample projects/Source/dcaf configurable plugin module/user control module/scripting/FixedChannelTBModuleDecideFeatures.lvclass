@@ -294,6 +294,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
 		</Item>
+		<Item Name="Get Actual Button References.vi" Type="VI" URL="../Get Actual Button References.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Z!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!=!!)!!!!"A!!#F*F:GZV&lt;3"P&gt;81!!%!!]1!!!!!!!!!"%%*V&gt;(2P&lt;C"/97VF=SZD&gt;'Q!*U!7!!1%1G&amp;D;Q2/:8BU"%BF&lt;(!'1W&amp;O9W6M!!2&amp;&lt;H6N!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#2!=!!)!!!!"A!!&amp;S*597)A2G^S&gt;W&amp;S:#"5&lt;S)A5G6G&lt;H6N!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!A!!!!+!!!!!!!!!!!!!!!)!!!!!!%!#1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 	</Item>
 	<Item Name="Features_SpecPage.vi" Type="VI" URL="../Features_SpecPage.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'5!!!!$!!%!!!!,E"Q!"Y!!"54476U952B&gt;'&amp;09GIO&lt;(:D&lt;'&amp;T=Q!0476U952B&gt;'&amp;09GIA&lt;X6U!#2!=!!)!!!!"A!!&amp;S*597)A2G^S&gt;W&amp;S:#"5&lt;S)A5G6G&lt;H6N!#:!=!!)!!!!"A!!'#*597)A1G&amp;D;X&gt;B=G1A6']C)&amp;*F:GZV&lt;1!!#!!Q`````Q!51%!!!@````]!"!:&amp;=H*P=H-!!"*!=!!:!!%!"1:&amp;=H*P=H-!!!J!)122&gt;7FU!!!11(!!'1!"!!=%586J&gt;!!!2A$R!!!!!!!!!!%85X"F9S"197&gt;F)%FO&gt;'6S:G&amp;D:3ZD&gt;'Q!*E"1!!1!!A!$!!9!#".4='6D)&amp;"B:W5A37ZU:8*G97.F!#Z!=!!?!!!6%UVF&gt;'&amp;%982B4W*K,GRW9WRB=X-!$EVF&gt;'&amp;%982B4W*K)'FO!!"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!E!#A-!!(A!!!!!!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!%A!!!!!"!!M!!!!!</Property>
