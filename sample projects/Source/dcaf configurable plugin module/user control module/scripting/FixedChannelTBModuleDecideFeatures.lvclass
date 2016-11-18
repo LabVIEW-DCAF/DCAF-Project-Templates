@@ -295,13 +295,22 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
 		</Item>
 		<Item Name="Get Actual Button References.vi" Type="VI" URL="../Get Actual Button References.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Z!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!=!!)!!!!"A!!#F*F:GZV&lt;3"P&gt;81!!%!!]1!!!!!!!!!"%%*V&gt;(2P&lt;C"/97VF=SZD&gt;'Q!*U!7!!1%1G&amp;D;Q2/:8BU"%BF&lt;(!'1W&amp;O9W6M!!2&amp;&lt;H6N!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#2!=!!)!!!!"A!!&amp;S*597)A2G^S&gt;W&amp;S:#"5&lt;S)A5G6G&lt;H6N!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!A!!!!+!!!!!!!!!!!!!!!)!!!!!!%!#1!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;E!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!=!!)!!!!"A!!#F*F:GZV&lt;3"P&gt;81!!'M!]1!!!!!!!!!#+E:J?'6E1WBB&lt;GZF&lt;&amp;2#47^E&gt;7RF2'6D;72F2G6B&gt;(6S:8-O&lt;(:D&lt;'&amp;T=R"#&gt;82U&lt;WYA4G&amp;N:8-O9X2M!#&gt;!&amp;A!%"%*B9WM%4G6Y&gt;!2):7RQ"E.B&lt;G.F&lt;!!%27ZV&lt;1!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!E1(!!#!!!!!9!!"=C6'&amp;C)%:P=H&gt;B=G1A6']C)&amp;*F:GZV&lt;1"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!9!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!)!!!!#A!!!!!!!!!!!!!!#!!!!!!"!!E!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+		<Item Name="Button Names.ctl" Type="VI" URL="../Button Names.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"T!!!!!1"L!0%!!!!!!!!!!CJ';8BF:%.I97ZO:7R51EVP:(6M:52F9WFE:5:F982V=G6T,GRW9WRB=X-11H6U&gt;'^O)%ZB&lt;76T,G.U&lt;!!H1"9!"!2#97.L"%ZF?(1%3'6M=!:$97ZD:7Q!"%6O&gt;7U!!!%!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 		</Item>
 	</Item>
 	<Item Name="Features_SpecPage.vi" Type="VI" URL="../Features_SpecPage.vi">
