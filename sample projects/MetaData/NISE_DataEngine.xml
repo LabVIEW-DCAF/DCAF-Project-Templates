@@ -18,7 +18,7 @@
 
 <ProjectTemplate>
   <Title localize="yes">Static Channel Module</Title>
-  <Description localize="yes">Creates a DCAF Module with a fixed number of channels, and scripts all code necessary for interacting with those channels.  Start here if you have a single VI that contains your control logic.  If the number of channels needed is not known in advance, use the Dynamic Channel Module template instead.</Description>
+  <Description localize="yes">Creates a DCAF Module with a fixed number of channels, and scripts all code to interact with those channels.  Start here if you have a single control logic VI.  If the number of channels needed is not known in advance, use the Dynamic Channel Module template instead.</Description>
   <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
   <LocationPath>dcaf configurable plugin module/user control module</LocationPath>
