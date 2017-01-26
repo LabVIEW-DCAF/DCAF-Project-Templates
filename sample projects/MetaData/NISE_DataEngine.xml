@@ -2,8 +2,8 @@
 <MetaData>
 
 <ProjectTemplate>
-  <Title localize="yes">I/O DCAF Module</Title>
-  <Description localize="yes">Creates a DCAF Module from a template which has been customized to aid in the development of new modules for I/O with a configurable number of channels.</Description>
+  <Title localize="yes">Dynamic Channel Module</Title>
+  <Description localize="yes">Creates a DCAF Module from a template which has been customized to aid in the development of new modules with a configurable number of channels.  Communication or IO plugins usually start here.</Description>
   <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
   <LocationPath>dcaf configurable plugin module/io plugin</LocationPath>
@@ -17,8 +17,8 @@
 </ProjectTemplate>
 
 <ProjectTemplate>
-  <Title localize="yes">User Control Module</Title>
-  <Description localize="yes">Creates a DCAF Module from a template that allows users to implement their control logic within a single VI. This template can only be used with logic that has a fixed number of channels, but it includes a script to generate all code necessary for interacting with those channels.</Description>
+  <Title localize="yes">Static Channel Module</Title>
+  <Description localize="yes">Creates a DCAF Module from a template that allows users to implement their control logic within a single VI. This template can only be used with logic that has a fixed number of channels, but it includes a script to generate all code necessary for interacting with those channels.  If the number of channels needed is not known in advance, use the Dynamic Channel Module template instead.</Description>
   <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
   <LocationPath>dcaf configurable plugin module/user control module</LocationPath>
