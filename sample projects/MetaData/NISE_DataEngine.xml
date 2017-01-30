@@ -2,7 +2,7 @@
 <MetaData>
 
 <ProjectTemplate>
-  <Title localize="yes">Dynamic Channel Module</Title>
+  <Title localize="yes">DCAF Dynamic Channel Module</Title>
   <Description localize="yes">Creates a DCAF Module with a configurable number of channels. Communication or IO plugins usually start here.</Description>
   <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
@@ -17,7 +17,7 @@
 </ProjectTemplate>
 
 <ProjectTemplate>
-  <Title localize="yes">Static Channel Module</Title>
+  <Title localize="yes">DCAF Static Channel Module</Title>
   <Description localize="yes">Creates a DCAF Module with a fixed number of channels, and scripts all code to interact with those channels.  Start here if you have a single control logic VI.  </Description>
   <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
