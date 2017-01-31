@@ -17,7 +17,7 @@
 </ProjectTemplate>
 
 <ProjectTemplate>
-  <Title localize="yes">Basic Execution Template</Title>
+  <Title localize="yes">DCAF Basic Execution Template</Title>
   <Description localize="yes">Creates a simple Initialize, Read/Write, Close example for executing a DCAF configuration.</Description>
   <Filters localize="yes">DCAF:Runtime</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
