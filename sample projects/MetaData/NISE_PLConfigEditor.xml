@@ -2,7 +2,7 @@
 <MetaData>
 
 <ProjectTemplate>
-  <Title localize="yes">Custom Configuration Editor</Title>
+  <Title localize="yes">Custom DCAF Configuration Editor</Title>
   <Description localize="yes">Creates a branch of the Standard Configuration Editor for customization.</Description>
   <Filters localize="yes">DCAF:Editor</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin;editor;configuration</Keywords>
