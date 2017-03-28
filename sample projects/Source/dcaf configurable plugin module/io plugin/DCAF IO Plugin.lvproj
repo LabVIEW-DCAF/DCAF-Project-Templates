@@ -11,6 +11,7 @@
 		<Property Name="IOScan.Priority" Type="UInt">9</Property>
 		<Property Name="IOScan.ReportModeConflict" Type="Bool">true</Property>
 		<Property Name="IOScan.StartEngineOnDeploy" Type="Bool">false</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -20,10 +21,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="io plugin tests.lvlib" Type="Library" URL="../testing/io plugin tests.lvlib"/>
 		<Item Name="tag bus configurable plugin editor node.lvclass" Type="LVClass" URL="../editor node/tag bus configurable plugin editor node.lvclass"/>
 		<Item Name="tag bus configurable plugin module configuration.lvclass" Type="LVClass" URL="../module/configuration/tag bus configurable plugin module configuration.lvclass"/>
 		<Item Name="tag bus configurable plugin module.lvclass" Type="LVClass" URL="../module/execution/tag bus configurable plugin module.lvclass"/>
+		<Item Name="io plugin tests.lvlib" Type="Library" URL="../testing/io plugin tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
