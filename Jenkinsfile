@@ -3,9 +3,9 @@
 
 //Modify the below parameters to match the values for this particular repo
 
-def utfPath = ""
-def vipbPath = "sample projects\\TBM Development Kit.vipb"
+def utfPaths = ["DCAF-Project-Templates\\sample projects\\sample projects.lvproj"]
+def vipbPaths = ["sample projects\\TBM Development Kit.vipb"]
 def lvVersion = "14.0"
 
 //Leave the below line alone.  It pulls in the pipeline definition from the DCAF buildsystem repo so we don't duplicate code in every repo 
-dcafPipeline(utfPath,vipbPath,lvVersion)
+dcafPipeline(utfPaths,vipbPaths,lvVersion)
