@@ -10,7 +10,9 @@
 	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
 	<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
 	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
+	<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
+	<Item Name="Find Duplicate Test.vi" Type="VI" URL="../Find Duplicate Test.vi"/>
 	<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
