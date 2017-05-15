@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2017-04-28 15:12:10" Creator="Daniel" Comments="" ID="08388086d9d2ddeb1b6344a95dacc3b9">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2017-05-15 10:29:16" Creator="Daniel" Comments="" ID="b388e115f40cf53ca8d04f0a1d81b485">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_project_templates</Package_File_Name>
     <Library_Version>2.4.0.18</Library_Version>
@@ -108,6 +108,12 @@
       <Destination_Overrides>
         <Path>Source</Path>
         <Destination>9</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>tbdfsample-errors.txt</Path>
+        <Destination>3</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
