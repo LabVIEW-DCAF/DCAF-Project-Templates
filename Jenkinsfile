@@ -3,7 +3,7 @@
 
 //Modify the below parameters to match the values for this particular repo
 
-def utfPaths = ["DCAF-Project-Templates\\sample projects\\sample projects.lvproj"]
+def utfPaths = ["sample projects\\sample projects.lvproj"]
 def vipbPaths = ["sample projects\\TBM Development Kit.vipb"]
 def lvVersion = "14.0"
 
