@@ -6,7 +6,7 @@
   <Description localize="yes">Creates a DCAF Module with a configurable number of channels. Communication or IO plugins usually start here.</Description>
   <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>dcaf configurable plugin module/io plugin</LocationPath>
+  <LocationPath>dcaf plugin/Dynamic</LocationPath>
   <ProjectPath>dcaf io plugin.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
   <DocumentationPath>documentation/component editor documentation.html</DocumentationPath>
@@ -21,7 +21,7 @@
   <Description localize="yes">Creates a DCAF Module with a fixed number of channels, and scripts all code to interact with those channels.  Start here if you have a single control logic VI.  </Description>
   <Filters localize="yes">DCAF:Modules</Filters>
   <Keywords localize="yes">data;component;framework;mapping;access;plugin</Keywords>
-  <LocationPath>dcaf configurable plugin module/user control module</LocationPath>
+  <LocationPath>dcaf plugin/Static</LocationPath>
   <ProjectPath>user control module.lvproj</ProjectPath>
   <ListboxImagePath>images/datacomp.png</ListboxImagePath>
   <DocumentationPath>documentation/component editor documentation.html</DocumentationPath>
