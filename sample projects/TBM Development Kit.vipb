@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2017-09-08 14:53:44" Creator="Daniel" Comments="" ID="7b724eca3c0adcae1180a1789c832e15">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-12-30 20:00:01" Modified_Date="2017-09-14 11:03:05" Creator="Daniel" Comments="" ID="8ec7c253fbf545e88dd80866a48bbb01">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_project_templates</Package_File_Name>
     <Library_Version>2.4.1.18</Library_Version>
@@ -17,8 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_module_interface &gt;=2.3.0.13</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_tag_editor &gt;=2.2.0.200</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_tag_editor &gt;=2.4.0.29</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
