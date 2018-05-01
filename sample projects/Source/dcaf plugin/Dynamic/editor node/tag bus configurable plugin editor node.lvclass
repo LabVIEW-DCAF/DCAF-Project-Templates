@@ -85,6 +85,24 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 			</Item>
+			<Item Name="From CSV File.vi" Type="VI" URL="../From CSV File.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)*!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$%!B"F6Q:'&amp;U:1!!.%"Q!"Y!!"Y=:7ZH;7ZF)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!#G6O:WFO:3"P&gt;81!!':!=!!?!!!R,X2B:S"C&gt;8-A9W^O:GFH&gt;8*B9GRF)("M&gt;7&gt;J&lt;C"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!#NU97=A9H6T)'.P&lt;G:J:X6S97*M:3"Q&lt;(6H;7YA:72J&gt;'^S)'ZP:'5A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-P````]%5'&amp;U;!!!-E"Q!"Y!!"Y=:7ZH;7ZF)'.P&lt;G:J:X6S982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!!#76O:WFO:3"J&lt;A"G1(!!(A!!-3^U97=A9H6T)'.P&lt;G:J:X6S97*M:3"Q&lt;(6H;7YA:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!K&gt;'&amp;H)'*V=S"D&lt;WZG;7&gt;V=G&amp;C&lt;'5A='RV:WFO)'6E;82P=C"O&lt;W2F)'FO!!"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!*!!I!#Q-!!(A!!!U)!!!*!!!!$1I!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!!+!!!!EA!!!!!"!!Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
+			<Item Name="To CSV File.vi" Type="VI" URL="../To CSV File.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(6!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!':!=!!?!!!R,X2B:S"C&gt;8-A9W^O:GFH&gt;8*B9GRF)("M&gt;7&gt;J&lt;C"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!#NU97=A9H6T)'.P&lt;G:J:X6S97*M:3"Q&lt;(6H;7YA:72J&gt;'^S)'ZP:'5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E!S`````Q21982I!!!_1(!!(A!!(BRF&lt;G&gt;J&lt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!5:7ZH;7ZF)'.P&lt;G:J:X6S982J&lt;WY!!':!=!!?!!!R,X2B:S"C&gt;8-A9W^O:GFH&gt;8*B9GRF)("M&gt;7&gt;J&lt;C"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!#JU97=A9H6T)'.P&lt;G:J:X6S97*M:3"Q&lt;(6H;7YA:72J&gt;'^S)'ZP:'5A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%A!!!!A!!!#3!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+			</Item>
 		</Item>
 		<Item Name="type definitions" Type="Folder">
 			<Item Name="Map.ctl" Type="VI" URL="../Map.ctl">

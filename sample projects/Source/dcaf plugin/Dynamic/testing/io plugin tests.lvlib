@@ -8,15 +8,16 @@
 
 </Property>
 	<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
-	<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
+	<Item Name="Config Crosslink Test.vi" Type="VI" URL="../Config Crosslink Test.vi"/>
 	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 	<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
-	<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
-	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
+	<Item Name="Get Channels Test.vi" Type="VI" URL="../Get Channels Test.vi"/>
+	<Item Name="Init Runtime Test.vi" Type="VI" URL="../Init Runtime Test.vi"/>
 	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 	<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
 	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
 	<Item Name="To and From Array Test.vi" Type="VI" URL="../To and From Array Test.vi"/>
+	<Item Name="To and From CSV Test.vi" Type="VI" URL="../To and From CSV Test.vi"/>
 	<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>
 </Library>
