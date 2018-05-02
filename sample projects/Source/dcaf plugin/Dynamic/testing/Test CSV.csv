@@ -1,0 +1,28 @@
+Double input data 0,Read from HW,Double,Double input data 0
+Double input data 1,Read from HW,Double,
+Single input data 0,Read from HW,Single,Single input data 0
+Single input data 1,Read from HW,Single,
+Boolean input data 0,Read from HW,Boolean,Boolean input data 0
+Boolean input data 1,Read from HW,Boolean,
+String input data 0,Read from HW,String,String input data 0
+String input data 1,Read from HW,String,
+Array of Double input data 0,Read from HW,Array of Double,Array of Double input data 0
+Array of Double input data 1,Read from HW,Array of Double,
+Array of Boolean input data 0,Read from HW,Array of Boolean,Array of Boolean input data 0
+Array of Boolean input data 1,Read from HW,Array of Boolean,
+Array of String input data 0,Read from HW,Array of String,Array of String input data 0
+Array of String input data 1,Read from HW,Array of String,
+Double output data 0,Write to HW,Double,Double output data 0
+Double output data 1,Write to HW,Double,
+Single output data 0,Write to HW,Single,Single output data 0
+Single output data 1,Write to HW,Single,
+Boolean output data 0,Write to HW,Boolean,Boolean output data 0
+Boolean output data 1,Write to HW,Boolean,
+String output data 0,Write to HW,String,String output data 0
+String output data 1,Write to HW,String,
+Array of Double output data 0,Write to HW,Array of Double,Array of Double output data 0
+Array of Double output data 1,Write to HW,Array of Double,
+Array of Boolean output data 0,Write to HW,Array of Boolean,Array of Boolean output data 0
+Array of Boolean output data 1,Write to HW,Array of Boolean,
+Array of String output data 0,Write to HW,Array of String,Array of String output data 0
+Array of String output data 1,Write to HW,Array of String,
