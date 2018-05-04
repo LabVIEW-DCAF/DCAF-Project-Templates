@@ -13,25 +13,9 @@
 		<Item Name="User Process Test.vi" Type="VI" URL="../User Process Test.vi"/>
 	</Item>
 	<Item Name="Unit Test" Type="Folder">
-		<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:config crosslink test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">CD1BABBC-8CD0-41C5-091F-3DF8F8452BFB</Property>
-		</Item>
 		<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
-		<Item Name="Runtime Initialization Test.lvtest" Type="TestItem" URL="../Runtime Initialization Test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:Runtime Initialization Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">28991544-F8EC-FB76-61BC-F4772FD05EA3</Property>
-		</Item>
 		<Item Name="Runtime Initialization Test.vi" Type="VI" URL="../Runtime Initialization Test.vi"/>
-		<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../runtime to editor crosslink test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:runtime to editor crosslink test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">EF1EE4D0-D760-F992-B881-98A9C2042DB2</Property>
-		</Item>
 		<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
-		<Item Name="Serialization Test.lvtest" Type="TestItem" URL="../Serialization Test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:Serialization Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">26540E22-9E75-B55A-233C-970DD6A553E9</Property>
-		</Item>
 		<Item Name="Serialization Test.vi" Type="VI" URL="../Serialization Test.vi"/>
 	</Item>
 	<Item Name="subVIs" Type="Folder">

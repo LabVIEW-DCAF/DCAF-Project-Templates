@@ -21,10 +21,48 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Unit Test Framework Tests" Type="Folder">
+			<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../testing/Add Remove Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:Add Remove Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">4F6726F9-B7CF-3238-DE79-D6F17589CE6F</Property>
+			</Item>
+			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../testing/config crosslink test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:config crosslink test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">4DF22CF4-52A5-AF80-E36C-C6B36BD32654</Property>
+			</Item>
+			<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../testing/Duplicate Name Error Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:Duplicate Name Error Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">CFF9CC5F-2374-BCC9-7C2D-7AB0AE8A9B3C</Property>
+			</Item>
+			<Item Name="get channels test.lvtest" Type="TestItem" URL="../testing/get channels test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:get channels test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">374EABA3-BFD5-3BE3-7F03-A2E1270B61A0</Property>
+			</Item>
+			<Item Name="init runtime test.lvtest" Type="TestItem" URL="../testing/init runtime test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:init runtime test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">88015061-B821-199F-72CE-9F744CB094EF</Property>
+			</Item>
+			<Item Name="modify channel test.lvtest" Type="TestItem" URL="../testing/modify channel test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:modify channel test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">4341B990-AD0E-19E2-83DD-34572ACC8AE7</Property>
+			</Item>
+			<Item Name="serialization tests.lvtest" Type="TestItem" URL="../testing/serialization tests.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:serialization tests.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">426BCB85-35F1-7306-1012-4CDF83E375C7</Property>
+			</Item>
+			<Item Name="To and From Array Test.lvtest" Type="TestItem" URL="../testing/To and From Array Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:To and From Array Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">B8786979-26E8-6AC8-9AC9-AF6EF480CE64</Property>
+			</Item>
+			<Item Name="To and From CSV Test.lvtest" Type="TestItem" URL="../testing/To and From CSV Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:To and From CSV Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">B64E049B-61C2-C70E-8A15-13C29B26F6AA</Property>
+			</Item>
+		</Item>
+		<Item Name="io plugin tests.lvlib" Type="Library" URL="../testing/io plugin tests.lvlib"/>
 		<Item Name="tag bus configurable plugin editor node.lvclass" Type="LVClass" URL="../editor node/tag bus configurable plugin editor node.lvclass"/>
 		<Item Name="tag bus configurable plugin module configuration.lvclass" Type="LVClass" URL="../module/configuration/tag bus configurable plugin module configuration.lvclass"/>
 		<Item Name="tag bus configurable plugin module.lvclass" Type="LVClass" URL="../module/execution/tag bus configurable plugin module.lvclass"/>
-		<Item Name="io plugin tests.lvlib" Type="Library" URL="../testing/io plugin tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>

@@ -13,51 +13,15 @@
 		<Item Name="ToTable Test.vi" Type="VI" URL="../ToTable Test.vi"/>
 	</Item>
 	<Item Name="Unit Tests" Type="Folder">
-		<Item Name="Add Remove Test.lvtest" Type="TestItem" URL="../Add Remove Test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:Add Remove Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">72B929E5-C342-6022-F1C3-75E9658EDC97</Property>
-		</Item>
 		<Item Name="Add Remove Test.vi" Type="VI" URL="../Add Remove Test.vi"/>
-		<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../config crosslink test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:config crosslink test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">EBAD3491-FEA1-8ECF-3F4B-2F36FA569AAC</Property>
-		</Item>
 		<Item Name="config crosslink test.vi" Type="VI" URL="../config crosslink test.vi"/>
-		<Item Name="Duplicate Name Error Test.lvtest" Type="TestItem" URL="../Duplicate Name Error Test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:Duplicate Name Error Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">BD4FF8EC-0F27-B7FE-9648-18DEC2D9A5DD</Property>
-		</Item>
 		<Item Name="Duplicate Name Error Test.vi" Type="VI" URL="../Duplicate Name Error Test.vi"/>
-		<Item Name="get channels test.lvtest" Type="TestItem" URL="../get channels test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:get channels test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">9DD83F26-D100-8BE0-0B48-E567EBE5DD81</Property>
-		</Item>
 		<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
-		<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:init runtime test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">9AD56571-1EDD-476F-6FCE-C07C2C88B9B3</Property>
-		</Item>
 		<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
-		<Item Name="modify channel test.lvtest" Type="TestItem" URL="../modify channel test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:modify channel test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">223F0D3D-C42C-06D3-78BC-B30E3926DEB7</Property>
-		</Item>
 		<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
 		<Item Name="runtime to editor crosslink test.vi" Type="VI" URL="../runtime to editor crosslink test.vi"/>
-		<Item Name="serialization tests.lvtest" Type="TestItem" URL="../serialization tests.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:serialization tests.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">EB83AD03-0B78-46C5-CFF7-37898894C91B</Property>
-		</Item>
 		<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
-		<Item Name="To and From Array Test.lvtest" Type="TestItem" URL="../To and From Array Test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:To and From Array Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">8E910AC8-C66E-C5FD-E790-AC50E68F52F9</Property>
-		</Item>
 		<Item Name="To and From Array Test.vi" Type="VI" URL="../To and From Array Test.vi"/>
-		<Item Name="To and From CSV Test.lvtest" Type="TestItem" URL="../To and From CSV Test.lvtest">
-			<Property Name="utf.test.bind" Type="Str">io plugin tests.lvlib:To and From CSV Test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">D658BD57-5C3B-CB62-86A7-705658D0CB91</Property>
-		</Item>
 		<Item Name="To and From CSV Test.vi" Type="VI" URL="../To and From CSV Test.vi"/>
 	</Item>
 	<Item Name="subVIs" Type="Folder">
