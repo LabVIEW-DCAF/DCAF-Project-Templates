@@ -22,10 +22,28 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Unit Test Framework Files" Type="Folder">
+			<Item Name="Serialization Test.lvtest" Type="TestItem" URL="../Test/Serialization Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:Serialization Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">7F0E5B75-8897-0C51-3BAC-A24FC655B881</Property>
+			</Item>
+			<Item Name="runtime to editor crosslink test.lvtest" Type="TestItem" URL="../Test/runtime to editor crosslink test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:runtime to editor crosslink test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">5C0AA013-C2A4-321D-08A1-5DA0AEF4DCE8</Property>
+			</Item>
+			<Item Name="Runtime Initialization Test.lvtest" Type="TestItem" URL="../Test/Runtime Initialization Test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:Runtime Initialization Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">C6D3B83A-1702-785E-8A42-59AB910FF6D6</Property>
+			</Item>
+			<Item Name="config crosslink test.lvtest" Type="TestItem" URL="../Test/config crosslink test.lvtest">
+				<Property Name="utf.test.bind" Type="Str">User Control Module Test.lvlib:config crosslink test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">A9284853-70EA-30CD-F5FE-E7DA2057F23F</Property>
+			</Item>
+		</Item>
+		<Item Name="User Control Module Test.lvlib" Type="Library" URL="../Test/User Control Module Test.lvlib"/>
 		<Item Name="user control module configuration.lvclass" Type="LVClass" URL="../module/configuration/user control module configuration.lvclass"/>
 		<Item Name="user control module editor.lvclass" Type="LVClass" URL="../editor node/user control module editor.lvclass"/>
 		<Item Name="user control module.lvclass" Type="LVClass" URL="../module/execution/user control module.lvclass"/>
-		<Item Name="User Control Module Test.lvlib" Type="Library" URL="../Test/User Control Module Test.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
